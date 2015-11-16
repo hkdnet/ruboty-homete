@@ -4,7 +4,7 @@ module Ruboty
       on /homete\z/, name: 'homete', description: 'Praise you'
 
       def homete(message)
-        Ruboty::Fizzbuzz::Actions::Fizzbuzz.new(message).call
+        Ruboty::Homete::Actions::Homete.new(message).call
       end
     end
   end
