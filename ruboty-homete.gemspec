@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["hkdnet"]
   spec.email         = ["hkdnet@users.noreply.github.com"]
   spec.summary       = %q{A ruboty plugin to praise someone.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/hkdnet/ruboty-homete"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
